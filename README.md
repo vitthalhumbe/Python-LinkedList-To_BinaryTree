@@ -1,18 +1,25 @@
-Linked List to Binary Tree Conversion
-Overview
-This Python script, authored by Vitthal Humbe, demonstrates the conversion of a linked list to a binary tree using the "binarytree" library. The code prompts the user to input values, creates a linked list, and then converts it into a binary tree for visualization.
+# Linked List to Binary Tree Conversion
 
-Instructions
-Run the script.
-Enter space-separated values when prompted.
-The linked list will be displayed.
-The linked list is converted into a binary tree and presented using the "binarytree" library.
-Dependencies
-Python 3.x
-binarytree library
-Usage Example
-python
-Copy code
-python linkedlist_to_binarytree.py
-Author
-Vitthal Humbe
+A Python script for converting a linked list into a binary tree using the "binarytree" library. This code, authored by **Vitthal Humbe**, takes user-input values, stores them in a linked list, and then transforms the list into a binary tree for visualization.
+
+## How to Run
+
+1. Ensure you have Python 3.x installed.
+2. Install the required library using `pip install binarytree`.
+3. Run the script: `python linkedlist_to_binarytree.py`.
+4. Enter space-separated values as prompted.
+5. The linked list will be displayed, followed by the corresponding binary tree.
+
+## Author
+
+- **Vitthal Humbe**
+  - Email: vitthal.3454@gmail.com
+
+## Contribution
+
+Contributions to this repository are currently limited to the author.
+
+### Dependencies
+
+- Python 3.x
+- [binarytree](https://pypi.org/project/binarytree/) library
